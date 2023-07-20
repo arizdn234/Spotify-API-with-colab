@@ -1,14 +1,15 @@
 # Spotify API
-### Hi there 👋 I'm *Ariz*,
-This project can be runned on google colab only. But you can modify this notebook to compatible on jupyter notebook. In this case, I made a project for Crawling data from Spotify API. This dataset can apllied for learning Data Analysting, Crawling Data, and Clustering. In this case i'm clustering music data with K-Means algorithm on sklearn:bar_chart:.
+**Hi there 👋 I'm Ariz,**
+This project can be runned on **Google Colab** only. But you can modify this notebook to compatible on jupyter notebook. In this case, I made a project for *Crawling data* from **Spotify API**. This dataset can apllied for learning *Data Analysting*, *Crawling Data*, *Machine Learning*, and *Clustering*. In this case i'm *clustering* music data with **K-Means** algorithm on **sklearn** library:bar_chart:.
 
 ## How to Use
 ### First
-- you need a token_id and secret_token from [```https://developer.spotify.com/```](https://developer.spotify.com/)
-
-- Create new app and copy your token_id and secret_token to your notebook.
+- You need a ```Client ID``` and ```Client secret``` from [https://developer.spotify.com/](https://developer.spotify.com/)
+- Create an account if you don't have a **spotify** account yet
+- Create new app and copy your ```Client ID``` and ```Client secret``` to your notebook.
 ### Requirements
-This command can be follow if you have installed pip
+Necessary Library if you running on local development
+* this command can be follow if you have installed pip
 * [x] spotipy ``` pip install spotipy ```
 * [x] pandas ``` pip install pandas ```
 * [x] scikit-learn ```pip install scikit-learn```
