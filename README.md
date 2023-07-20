@@ -17,7 +17,7 @@ Necessary Library if you running on local development
 * [x] seaborn ``` pip install pandas ```
 
 ## Datasets
-1. Download zip
+1. [```Download zip```](https://github.com/sliring/Spotify-API-with-colab/archive/refs/heads/main.zip)
 2. Clone this repo 
 ```sh
   git clone https://github.com/sliring/Spotify-API-with-colab.git
