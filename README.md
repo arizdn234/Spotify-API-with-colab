@@ -1,6 +1,6 @@
 # Spotify API
 **Hi there 👋 I'm AriZYdane,**
-This project can be runned on **Google Colab** only. But you can modify this notebook to compatible on jupyter notebook. In this case, I made a project for *Crawling data* from **Spotify API**. This dataset can apllied for learning *Data Analysting*, *Crawling Data*, *Machine Learning*, and *Clustering*. In this case i'm *clustering* music data with **K-Means** algorithm on **sklearn** library:bar_chart:.
+This project can be runned on **Google Colab** only. But you can modify this notebook to compatible on local/remote your jupyter notebook. In this case, I made a project for *Crawling data* from **Spotify API**. This dataset can apllied for learning *Data Analysting*, *Crawling Data*, *Machine Learning*, and *Clustering*. In this case i'm *clustering* music data with **K-Means** algorithm on **sklearn** library:bar_chart:.
 
 ## How to Use
 ### First
