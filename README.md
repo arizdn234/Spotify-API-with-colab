@@ -25,6 +25,6 @@ Necessary Library if you running on local development
 ___
 ___
 ## *Useful link*
-- [Spotify developer](https://developer.spotify.com/)
+- [Spotify Developer](https://developer.spotify.com/)
 - [Spotify Web API Documentation](https://developer.spotify.com/documentation/web-api)
 - [Pypi](https://pypi.org/)
