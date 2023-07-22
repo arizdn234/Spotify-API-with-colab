@@ -22,7 +22,10 @@ Library yang diperlukan jika Anda menjalankan pengembangan lokal
 
 ## Dataset
 1. [```Unduh zip```](https://github.com/sliring/Spotify-API-with-colab/archive/refs/heads/main.zip)
-2. Kloning repo ini ``` sh git clone https://github.com/sliring/Spotify-API-with-colab.git ```
+2. Kloning repo ini
+   ```sh
+   git clone https://github.com/sliring/Spotify-API-with-colab.git
+   ```
 ___
 ___ 
 ## *Tautan yang berguna* 
