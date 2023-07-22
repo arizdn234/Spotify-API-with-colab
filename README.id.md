@@ -1,5 +1,6 @@
 # API Spotify 
-[![id](https://img.shields.io/badge/in-Indonesian-red.svg)](https://github.com/sliring/Spotify-API-with-colab/tree/main)
+[![id](https://img.shields.io/badge/in-Indonesian-red.svg)](https://github.com/sliring/Spotify-API-with-colab/tree/main/)
+
 --- 
 **Hai 👋 Saya AriZYdane,** 
 Desclaimer dulu.. Proyek ini hanya dapat dijalankan di **Google Colab**. Tetapi anda dapat memodifikasi notebook ini agar kompatibel di local/remote jupyter notebook anda. Dalam hal ini, saya membuat proyek untuk *Crawling data* dari **Spotify API**. Dataset ini dapat digunakan untuk belajar *Data Analysting*, *Crawling Data*, *Machine Learning*, dan *Clustering*. Saya *mengelompokkan* data musik dengan algoritma **K-Means** dengan library **sklearn**:bar_chart:. 
