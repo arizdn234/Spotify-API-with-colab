@@ -1,4 +1,5 @@
 # Spotify API
+[![id](https://img.shields.io/badge/lang-red.svg)](https://github.com/sliring/multilanguage-readme-pattern/blob/master/README.id.md)
 **Hi there 👋 I'm AriZYdane,**
 This project can be runned on **Google Colab** only. But you can modify this notebook to compatible on local/remote your jupyter notebook. In this case, I made a project for *Crawling data* from **Spotify API**. This dataset can apllied for learning *Data Analysting*, *Crawling Data*, *Machine Learning*, and *Clustering*. I'm *clustering* music data with **K-Means** algorithm on **sklearn** library:bar_chart:.
 
