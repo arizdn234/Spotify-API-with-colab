@@ -1,5 +1,5 @@
 # API Spotify 
-[![id](https://img.shields.io/badge/in-Indonesian-red.svg)](https://github.com/sliring/Spotify-API-with-colab/tree/main/)
+[![id](https://img.shields.io/badge/Read_in-English-red.svg)](https://github.com/sliring/Spotify-API-with-colab/tree/main/)
 
 --- 
 **Hai 👋 Saya AriZYdane,** 
